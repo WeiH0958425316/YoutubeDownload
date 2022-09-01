@@ -8,8 +8,10 @@ pipenv install
 ## Activate environment
 pipenv shell
 
+<br><br><br>
+
 # Execute
 ## cmd
 python .\YoutubeDownloader.py
-## package it to .exe
+## pack it be a .exe file
 pyinstaller.exe -F -w .\YoutubeDownloader.py
